@@ -8,9 +8,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kroko-fant&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 🔭 I’m currently working on
+## 🔭 I’m currently working on ...
 
-some private Projects and the ones below. At the moment there is mainly Python but I hope that will change soon.:P maybe I'll release them for the public soon.
+... some private Projects and the ones below. At the moment there is only Python but I hope that will change soon.:P maybe I'll release them for the public soon.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kroko-fant&repo=Stock-Simulation&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kroko-fant&repo=UltimateBot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
