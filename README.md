@@ -5,7 +5,7 @@
 - Programming a Peer to Peer Go Client in Go
 - How to autodeploy projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kroko-fant&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kroko-fant&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats
 
 
 ## 🔭 I’m currently working on ...
@@ -14,7 +14,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kroko-fant&repo=UltimateBot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kroko-fant&repo=Stock-Simulation&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kroko-fant&repo=IrgendeinConsoleMMO&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Strange-Penguins&repo=IrgendeinConsoleMMO&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ## 🔨 Tools I use
