@@ -2,8 +2,8 @@
 
 ## 🌱 I’m currently learning
 - A little bit of Go, Python and Java
-- Programming a Peer to Peer Go Client in Go
-- How to autodeploy projects
+- Some @Wynncraft related stuff
+- How to autodeploy projects (still :despair:)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kroko-fant&theme=tokyonight)
 
@@ -13,8 +13,7 @@
 ... some private Projects and the ones below. At the moment there is only Python but I hope that will change soon.:P maybe I'll release them for the public soon.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kroko-fant&repo=UltimateBot&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kroko-fant&repo=Stock-Simulation&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Strange-Penguins&repo=IrgendeinConsoleMMO&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kroko-fant&repo=wynnpenguinapi&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ## 🔨 Tools I use
