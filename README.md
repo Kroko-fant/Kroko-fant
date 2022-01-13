@@ -5,7 +5,7 @@
 - Some @Wynncraft related stuff
 - How to autodeploy projects (still :despair:)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kroko-fant)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kroko-fant&theme=tokyonight)
 
 
 ## 🔭 I’m currently working on ...
