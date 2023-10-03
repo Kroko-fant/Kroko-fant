@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kroko-fant
+### Hi there 👋 I'm Jan-Luca Grabowski
 
 ## 🌱 I’m currently learning
 - A little bit of Go, Python and Java
